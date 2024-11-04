@@ -2,11 +2,12 @@
 
 # Contexte :
 
-- Consultante en mission dans l’ONG DWFA, qui veut donner accès à l’eau potable à tout le monde.
+- L’ONG DWFA, veut donner accès à l’eau potable à tout le monde
 - Demande de financement auprès d’un bailleur de fonds en présentant 3 domaines d’expertise :
-- Création de services d’accès à l’eau potable ;
-- Modernisation de services d’accès à l’eau déjà existants ;
-- Consulting auprès d’administrations/gouvernements à propos des politiques d’accès à l’eau.
+  
+          - Création de services d’accès à l’eau potable 
+          - Modernisation de services d’accès à l’eau déjà existants 
+          - Consulting auprès d’administrations/gouvernements à propos des politiques d’accès à l’eau
 
 # Mission :
 
